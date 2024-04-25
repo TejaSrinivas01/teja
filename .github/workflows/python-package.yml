@@ -1,6 +1,6 @@
 name: Python package
 
-on: [push]
+on:
   schedule:
     - cron: '* * * * *' # At 00:00 on Monday
 
