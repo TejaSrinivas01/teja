@@ -1,5 +1,5 @@
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
-my_str = "Hello!!!, this is Teja ---let's dive [] __ into Github <<<<& actions."
+my_str = "Hello!!!, this is Teja ---let's dive[]_ into Github<<<<& actions."
 
 no_punct = ""
 for char in my_str:
